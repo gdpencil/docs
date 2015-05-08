@@ -574,7 +574,7 @@ msgid ""
 msgstr ""
 "如果复制集有奇数个节点，可以参考 :ref:`the procedure for a three-member set "
 "<replica-set-deploy-distributed-three-member>` 。确保 \"Site A\" 中有多数个节"
-"点。举个栗子，如果有5个节点，将3个节点部署在Site A，剩下的2个节点部署在其他数"
+"点。举个例子，如果有5个节点，将3个节点部署在Site A，剩下的2个节点部署在其他数"
 "据中心。"
 
 #: ../source/tutorial/deploy-geographically-distributed-replica-set.txt:143
